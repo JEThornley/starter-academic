@@ -26,7 +26,7 @@ subtitle = ""
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "Course details"
-  description = "[retrieve from course outline]"  
+  description = "test[retrieve from course outline]"  
   
 [[feature]]
   icon = "envelope""

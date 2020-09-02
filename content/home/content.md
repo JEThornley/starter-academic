@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,6 +22,7 @@ date_format = "Jan 2006"
   company = "Keywords: Digital Capital Markets"
   company_url = ""
   location = ""
+  weight = 10
   date_start = "2020-09-06"
   date_end = "2020-09-12"
   description = """
@@ -33,6 +34,7 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = ""
+  weight = 20
   date_start = "2020-09-13"
   date_end = "2020-09-19"
   description = """"""

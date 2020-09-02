@@ -19,6 +19,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Instructor"
   description = "Dr. Ryan Riordan"
+  description = "test"
   
 [[feature]]
   icon = "calendar-alt"

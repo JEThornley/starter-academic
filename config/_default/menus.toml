@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = ""
   weight = 10
 
 [[main]]
@@ -50,5 +50,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "Course Outline"
-url = "files/MFIN841_CourseOutline.pdf"
+url = "files/cv.pdf"
    weight = 80

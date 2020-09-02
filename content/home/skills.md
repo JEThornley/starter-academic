@@ -18,15 +18,13 @@ subtitle = ""
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Instructor"
-  description = "Dr. Ryan Riordan
-  [short bio]
-  "
+  description = "Dr. Ryan Riordan"
   
 [[feature]]
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "Course details"
-  description = "test[retrieve from course outline]"  
+  description = "[retrieve from course outline]"  
   
 [[feature]]
   icon = "envelope""

@@ -18,20 +18,19 @@ subtitle = ""
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Instructor"
-  description = "Dr. Ryan Riordan"
-  description = "test"
+  description = "Dr. Ryan Riordan </br> [ryanriordan.ca](https://ryanriordan.ca/)"
   
 [[feature]]
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "Course details"
-  description = "[retrieve from course outline]"  
+  description = "[Day of the week, time, link to video portal?]"  
   
 [[feature]]
   icon = "envelope"
   icon_pack = "fas"
   name = "Contacting me"
-  description = "[retrieve from course outline]"
+  description = "[ryanriordan@queensu.ca](mailto:ryanriordan@queensu.ca)"
 
 # Uncomment to use emoji icons.
 # [[feature]]

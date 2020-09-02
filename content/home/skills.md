@@ -27,7 +27,7 @@ subtitle = ""
   description = "[retrieve from course outline]"  
   
 [[feature]]
-  icon = "envelope""
+  icon = "envelope"
   icon_pack = "fas"
   name = "Contacting me"
   description = "[retrieve from course outline]"

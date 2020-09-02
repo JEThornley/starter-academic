@@ -11,12 +11,30 @@
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 100
 
 [[main]]
-  name = "Content"
+  name = "Course Schedule"
   url = "#content"
   weight = 30
+
+  [[main]]
+    name = "Course Content"
+    identifier = "content-parent"
+    url = ""
+    weight = 40
+
+    [[main]]
+      name = "Week One"
+      parent = "content-parent"
+      url = ""
+      weight = 50
+
+      [[main]]
+        name = "Week Two"
+        parent = "content-parent"
+        url = ""
+        weight = 60
 
 #[[main]]
 #  name = "Publications"
@@ -30,7 +48,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+   name = "Course Outline"
+url = "files/MFIN841_CourseOutline.pdf"
+   weight = 80

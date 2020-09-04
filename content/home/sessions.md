@@ -11,6 +11,8 @@ weight = 15  # Order that this section will appear.
 title = "Academic Kickstart"
 subtitle = ""
 
+
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -49,6 +51,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<link rel="stylesheet" type="text/css" media="all" href="scss/custom.css" />
 
 <div class="row">
   <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom:20px;">

@@ -51,29 +51,4 @@ subtitle = "Evolution of Market Technology & Evaluating Market Quality"
 +++
 
 
-At the end of this week, you will be able to: 
-1. Describe the impact of high frequency trading in stock markets. 
-1. Identify the differences between algorithmic trading and high frequency trading.  
-1. Understand how execution benchmarks are constructed. 
-
-<h2>Preview of Activities</h2>
-<h3>Activity 4:  The Case of Knight Capital</h3>
-In this activity, you will read a real case study of a high frequency trader and be asked to apply your learning about computerized trading to evaluate the moves that Knight Capital made and how the company could have better solved their problems.
-
-<h3>Quiz</h3>
-A link to the quiz will be provided by the instructor. This assessment will count towards your individual participation grade.
-
-<h2>Algorithmic Trading</h2>
-<p>In algorithmic trading, the trading process is automated according to a set of pre-programmed rules and strategies that account for variables such as time, price, and volume. This enables investors to trade quickly, accurately and at reduced costs. </p>
-<h3>Readings</h3>
-<p>As you read through the articles below, think about how computerized trading has changed the trading landscape. 
-</p>
-<p>Directions:  Read all of the following articles.</p>
-<h4>Getting Up to Speed on High-Frequency Trading</h4>
-* FINRA Staff. (2015, November 25). [Getting Up to Speed on High-Frequency Trading](https://www.finra.org/investors/insights/getting-speed-high-frequency-trading). Retrieved on July 30, 2020 from https://www.finra.org/investors/insights/getting-speed-high-frequency-trading
-* Equity Market Structure Literature Review Part II: High Frequency Trading
-**Pages 4 - 11** of U.S. Securities and Exchange Commission. (2014, March 18). [Equity Market Structure Literature Review Part II: High Frequency Trading](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf). Retrieved on July 30, 2020 from https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf
-* Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?
-Stiglitz, J. (2014, April 15).  [Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?](https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf) Retrieved on July 30, 2020 from https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf
-
 

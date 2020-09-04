@@ -34,7 +34,7 @@ date_format = "January 2, 2006"
   url = "session2/"
   date_start = "2020-09-13"
   date_end = "2020-09-19"
-  description = "[Description]."
+  description = "[Description, deliverables]."
   
   [[item]]
   organization = "Session 3"
@@ -43,7 +43,7 @@ date_format = "January 2, 2006"
   url = "session3/"
   date_start = "2020-09-20"
   date_end = "2020-09-26"
-  description = "[Description]."
+  description = "[Description, deliverables]."
   
   [[item]]
   organization = "Session 4"
@@ -52,7 +52,7 @@ date_format = "January 2, 2006"
   url = "session4/"
   date_start = "2020-09-27"
   date_end = "2020-10-03"
-  description = "[Description]."
+  description = "[Description, deliverables]."
   
   [[item]]
   organization = "Session 5"
@@ -61,7 +61,7 @@ date_format = "January 2, 2006"
   url = "session5/"
   date_start = "2020-10-04"
   date_end = "2020-10-10"
-  description = "[Description]."
+  description = "[Description, deliverables]."
   
 
   

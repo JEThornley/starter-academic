@@ -25,13 +25,13 @@
     weight = 40
 
     [[main]]
-      name = "Week One"
+      name = "Session 1"
       parent = "content-parent"
-      url = ""
+      url = "session1/"
       weight = 50
 
       [[main]]
-        name = "Week Two"
+        name = "Session 2"
         parent = "content-parent"
         url = ""
         weight = 60

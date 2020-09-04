@@ -62,13 +62,12 @@ Welcome to Digital Capital Markets! Please review the [course outline](https://d
 Subscription to the Wall Street Journal and/or the Financial Times.  Some other excellent financial magazines such as The Economist and Business Week also provide good applications of what you will learn in the class.
 
 <h3>Course Website</h3>
-<p>The course website provides valuable information related to the course. On the website you will find:
+The course website provides valuable information related to the course. On the website you will find:
 *Smith Living Cases
 *Readings
 *Video Snippets
 *Academic articles
 *Posted articles from financial press, as may arise in class
-</p>
 
 
 

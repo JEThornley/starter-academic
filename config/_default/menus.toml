@@ -33,8 +33,32 @@
       [[main]]
         name = "Session 2"
         parent = "content-parent"
-        url = ""
+        url = "session2/"
         weight = 60
+
+        [[main]]
+          name = "Session 3"
+          parent = "content-parent"
+          url = "session3/"
+          weight = 70
+
+          [[main]]
+            name = "Session 4"
+            parent = "content-parent"
+            url = "session4/"
+            weight = 80
+
+            [[main]]
+              name = "Session 5"
+              parent = "content-parent"
+              url = "session5/"
+              weight = 90
+
+              [[main]]
+                name = "Session 6"
+                parent = "content-parent"
+                url = "session6/"
+                weight = 100
 
 #[[main]]
 #  name = "Publications"
@@ -51,4 +75,4 @@
 [[main]]
    name = "Course Outline"
 url = "files/MFIN841_CourseOutline.pdf"
-   weight = 80
+   weight = 200

@@ -23,20 +23,54 @@ date_format = "January 2, 2006"
   organization_url = ""
   title = "Introduction to Course"
   url = "session1/"
-  
   date_start = "2020-09-06"
   date_end = "2020-09-12"
-  description = "View content"
+  description = "Welcome to MFIN841"
 
 [[item]]
   organization = "Session 2"
   organization_url = ""
   title = "Trading and Markets"
   url = "session2/"
+  date_start = "2020-09-13"
+  date_end = "2020-09-19"
+  description = "[Description]."
   
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  [[item]]
+  organization = "Session 3"
+  organization_url = ""
+  title = "Floor and Limit Order Markets"
+  url = "session3/"
+  date_start = "2020-09-20"
+  date_end = "2020-09-26"
+  description = "[Description]."
+  
+  [[item]]
+  organization = "Session 4"
+  organization_url = ""
+  title = "Evolution of Market Technology and Evaluating Market Quality"
+  url = "session4/"
+  date_start = "2020-09-27"
+  date_end = "2020-10-03"
+  description = "[Description]."
+  
+  [[item]]
+  organization = "Session 5"
+  organization_url = ""
+  title = "High Frequency Trading and Algorithmic Trading"
+  url = "session5/"
+  date_start = "2020-10-04"
+  date_end = "2020-10-10"
+  description = "[Description]."
+  
+  [[item]]
+  organization = "Session 6"
+  organization_url = ""
+  title = "Innovative Market Structures"
+  url = "session6/"
+  date_start = "2020-10-11"
+  date_end = "2020-10-17"
+  description = "[Description]."
   
 
 

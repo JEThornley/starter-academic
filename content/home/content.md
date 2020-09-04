@@ -1,6 +1,6 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -12,31 +12,41 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "January 2, 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+
+[[item]]
+  organization = "Session 1"
+  organization_url = "session1/"
   title = "Introduction to Course"
-  company = "Keywords: Digital Capital Markets"
-  company_url = ""
-  location = ""
-  weight = 10
+  url = ""
+  certificate_url = ""
   date_start = "2020-09-06"
   date_end = "2020-09-12"
-  description = """
-  [View content]
-  """
+  description = "View content"
 
-[[experience]]
+[[item]]
+  organization = "Session 2"
+  organization_url = "session2/"
   title = "Trading and Markets"
-  company = ""
-  company_url = ""
-  location = ""
-  weight = 20
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
   date_start = "2020-09-13"
   date_end = "2020-09-19"
-  description = """"""
+  description = ""
 
 +++
+

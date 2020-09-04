@@ -30,7 +30,7 @@ date_format = "January 2, 2006"
 [[item]]
   organization = "Session 2"
   organization_url = ""
-  title = "Trading and Markets"
+  title = "Trading and Markets & Floor and Limit Order Markets"
   url = "session2/"
   date_start = "2020-09-13"
   date_end = "2020-09-19"
@@ -39,7 +39,7 @@ date_format = "January 2, 2006"
   [[item]]
   organization = "Session 3"
   organization_url = ""
-  title = "Floor and Limit Order Markets"
+  title = "Evolution of Market Technology & Evaluating Market Quality"
   url = "session3/"
   date_start = "2020-09-20"
   date_end = "2020-09-26"
@@ -48,7 +48,7 @@ date_format = "January 2, 2006"
   [[item]]
   organization = "Session 4"
   organization_url = ""
-  title = "Evolution of Market Technology and Evaluating Market Quality"
+  title = "High Frequency Trading and Algorithmic Trading"
   url = "session4/"
   date_start = "2020-09-27"
   date_end = "2020-10-03"
@@ -57,20 +57,13 @@ date_format = "January 2, 2006"
   [[item]]
   organization = "Session 5"
   organization_url = ""
-  title = "High Frequency Trading and Algorithmic Trading"
+  title = "Innovative Market Structures"
   url = "session5/"
   date_start = "2020-10-04"
   date_end = "2020-10-10"
   description = "[Description]."
   
-  [[item]]
-  organization = "Session 6"
-  organization_url = ""
-  title = "Innovative Market Structures"
-  url = "session6/"
-  date_start = "2020-10-11"
-  date_end = "2020-10-17"
-  description = "[Description]."
+
   
 
 

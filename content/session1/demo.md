@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Session 1"
-subtitle = ""
+subtitle = "Introduction to COMM 420"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 
-Welcome to Digital Capital Markets! Please review the [course outline](files/MFIN841_CourseOutline.pdf).
+Welcome to COMM 420: Financial Markets and Innovation! Please review the [course outline](files/MFIN841_CourseOutline.pdf).
 
 <p>This course is designed to present students with an alternate lens on finance, particularly financial markets, trading and investing, by extending the theoretical models and lessons of classical finance. This course will provide a fresh view on what may change and what may not. The class will revisit classic economic theories, how they may be changing, and potentially new economic theories and results. Innovations in trading including, high frequency and algorithmic trading, automated markets, and market speed bumps will be examined from a market welfare perspective. How automation affects the investment and portfolio management process and business will also be discussed. </p>
 

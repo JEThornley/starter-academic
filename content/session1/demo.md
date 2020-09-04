@@ -57,6 +57,12 @@ Welcome to Digital Capital Markets! Please review the [course outline](https://d
 
 <p>The course will be delivered in a novel fashion with a combination of recorded lecture snippets, live tutorials, readings, presentations, and activities that will require the active participation of students. The course will depend heavily on active group participation and a desire to think outside of the box. Programming skills are not required but an openness to acquire these skills is a prerequisite. At the end of the course students will have knowledge of how technology supported innovation in financial services is changing financial intermediation. Students may also have an idea and a prototype for a FinTech start-up of their own. This is encouraged but is certainly not the only goal of the course. </p>
 
+In this course, you will: 
+1. Analyze ways in which technology is re-shaping how assets are traded. 
+1. Recommend how machine learning and data science can be applied to solving financial trading problems. 
+1. Design a strategy to evaluate the quality of electronic markets. 
+1. Assess the importance of intermediaries, investors, regulators, and market operators in the functioning of digital capital markets. 
+
 
 <h3>Recommended material</h3>
 Subscription to the Wall Street Journal and/or the Financial Times.  Some other excellent financial magazines such as The Economist and Business Week also provide good applications of what you will learn in the class.

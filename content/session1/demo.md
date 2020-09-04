@@ -50,8 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-<h2>Session 1</h2>
-<p>Welcome to Digital Capital Markets! Please review the [course outline](https://dcm-temp.netlify.app/files/MFIN841_CourseOutline.pdf).</p>
+
+Welcome to Digital Capital Markets! Please review the [course outline](https://dcm-temp.netlify.app/files/MFIN841_CourseOutline.pdf).
 
 <p>This course is designed to present students with an alternate lens on finance, particularly financial markets, trading and investing, by extending the theoretical models and lessons of classical finance. This course will provide a fresh view on what may change and what may not. The class will revisit classic economic theories, how they may be changing, and potentially new economic theories and results. Innovations in trading including, high frequency and algorithmic trading, automated markets, and market speed bumps will be examined from a market welfare perspective. How automation affects the investment and portfolio management process and business will also be discussed. </p>
 

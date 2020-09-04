@@ -52,7 +52,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<link rel="stylesheet" type="text/css" media="all" href="scss/custom.css" />
+<link rel="stylesheet" type="text/css" media="all"href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
 
 <div class="row">
   <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom:20px;">

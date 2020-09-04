@@ -20,33 +20,25 @@ date_format = "January 2, 2006"
 
 [[item]]
   organization = "Session 1"
-  organization_url = "session1/"
+  organization_url = ""
   title = "Introduction to Course"
-  url = ""
-  certificate_url = ""
+  url = "session1/"
+  
   date_start = "2020-09-06"
   date_end = "2020-09-12"
   description = "View content"
 
 [[item]]
   organization = "Session 2"
-  organization_url = "session2/"
+  organization_url = ""
   title = "Trading and Markets"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  url = "session2/"
+  
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2020-09-13"
-  date_end = "2020-09-19"
-  description = ""
+
 
 +++
 

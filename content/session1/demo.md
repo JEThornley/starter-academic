@@ -68,12 +68,13 @@ In this course, you will:
 Subscription to the Wall Street Journal and/or the Financial Times.  Some other excellent financial magazines such as The Economist and Business Week also provide good applications of what you will learn in the class.
 
 <h3>Course Website</h3>
+
 The course website provides valuable information related to the course. On the website you will find:
-*Smith Living Cases
-*Readings
-*Video Snippets
-*Academic articles
-*Posted articles from financial press, as may arise in class
+* Smith Living Cases
+* Readings
+* Video Snippets
+* Academic articles
+* Posted articles from financial press, as may arise in class
 
 
 
